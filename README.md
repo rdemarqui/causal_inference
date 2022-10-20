@@ -16,6 +16,8 @@ Good material about causal Inference
   * https://www.manning.com/books/causal-machine-learning
 * Elements of Causal Inference, by Jonas Peters, Dominik Janzing, and Bernhard Sch¨olkopf
   * https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf
+* How to Move Beyond ML Predictions: An Introduction to Causal Inference
+  * https://content.dataiku.com/causal-inference
 
 ## Courses
 * Causal Inference Course Lectures, by Brady Neal
