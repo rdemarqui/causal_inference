@@ -45,6 +45,8 @@ Good material about causal Inference
   * https://github.com/uber/causalml
 * Pylift
   * https://github.com/df-foundation/pylift
+* EconML
+  * https://github.com/microsoft/EconML
 
 ## Lectures
 * Causal Inference in Data Science From Prediction to Causation, by Amit Sharma
