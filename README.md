@@ -61,5 +61,6 @@ Good material about causal Inference
   * https://www.youtube.com/watch?v=CTcQlRSnvvM
 
 ## Articles
-
+* A Survey on Causal Inference, by Liuyi Yao, Zhixuan Chu, Sheng Li, Yaliang Li, Jing Gao, and Aidong Zhang
+  * https://arxiv.org/pdf/2002.02770.pdf
 
