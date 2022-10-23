@@ -37,6 +37,8 @@ Good material about causal Inference
   * https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your
 * Econometrics for Business in R and Python, by Diogo Alves de Resende
   * https://www.udemy.com/course/econometrics-for-business/
+* Probabilistic graphical models, by Daphne Coller
+  * https://www.coursera.org/specializations/probabilistic-graphical-models
 
 ## Packages
 * DoWhy
