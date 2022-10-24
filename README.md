@@ -76,4 +76,5 @@ Good material about causal Inference
   * https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a
 * Using Causal Inference to Improve the Uber User Experience
   * https://www.uber.com/en-FR/blog/causal-inference-at-uber/
-
+* Causal AI — Enabling Data-Driven Decisions
+  * https://towardsdatascience.com/causal-ai-enabling-data-driven-decisions-d162f2a2f15e
