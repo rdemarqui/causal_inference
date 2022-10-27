@@ -78,3 +78,7 @@ Good material about causal Inference
   * https://www.uber.com/en-FR/blog/causal-inference-at-uber/
 * Causal AI — Enabling Data-Driven Decisions
   * https://towardsdatascience.com/causal-ai-enabling-data-driven-decisions-d162f2a2f15e
+* The Surprising Power of Online Experiments
+  * https://hbr.org/2017/09/the-surprising-power-of-online-experiments
+* Causal Inference and Data Fusion in Econometrics
+* https://arxiv.org/abs/1912.09104
