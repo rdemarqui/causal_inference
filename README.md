@@ -81,4 +81,4 @@ Good material about causal Inference
 * The Surprising Power of Online Experiments
   * https://hbr.org/2017/09/the-surprising-power-of-online-experiments
 * Causal Inference and Data Fusion in Econometrics
-* https://arxiv.org/abs/1912.09104
+  * https://arxiv.org/abs/1912.09104
