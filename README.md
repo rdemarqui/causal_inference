@@ -82,3 +82,5 @@ Good material about causal Inference
   * https://hbr.org/2017/09/the-surprising-power-of-online-experiments
 * Causal Inference and Data Fusion in Econometrics
   * https://arxiv.org/abs/1912.09104
+* Causal Machine Learning and Business Decision Making
+  * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867326
