@@ -18,6 +18,8 @@ Good material about causal Inference
   * https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf
 * How to Move Beyond ML Predictions: An Introduction to Causal Inference
   * https://content.dataiku.com/causal-inference
+* Applied Causal Analysis (with R), by Paul C. Bauer
+  * https://bookdown.org/paul/applied-causal-analysis/
 
 ## Courses
 * Causal Inference Course Lectures, by Brady Neal
