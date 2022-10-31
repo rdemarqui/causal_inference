@@ -24,6 +24,8 @@ Good material about causal Inference
   * https://qbnets.wordpress.com/2020/11/30/my-free-book-bayesuvius-on-bayesian-networks/
 
 ## Courses
+* Econometrics for Business in R and Python, by Diogo Alves de Resende
+  * https://www.udemy.com/course/econometrics-for-business/
 * Causal Inference Course Lectures, by Brady Neal
   * https://www.youtube.com/watch?v=CfzO4IEMVUk&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0
 * A Crash Course in Causality: Inferring Causal Effects from Observational Data, by Jason A. Roy
@@ -39,8 +41,6 @@ Good material about causal Inference
   * https://www.udemy.com/course/causal-data-science/
 * Causal Diagrams: Draw Your Assumptions Before Your Conclusions
   * https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your
-* Econometrics for Business in R and Python, by Diogo Alves de Resende
-  * https://www.udemy.com/course/econometrics-for-business/
 * Probabilistic graphical models, by Daphne Coller
   * https://www.coursera.org/specializations/probabilistic-graphical-models
 
