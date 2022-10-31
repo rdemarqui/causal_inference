@@ -59,6 +59,8 @@ Good material about causal Inference
   * https://github.com/microsoft/EconML
 * CausalLift
   * https://github.com/Minyus/causallift
+* CausalImpact
+  * http://google.github.io/CausalImpact/CausalImpact.html
 
 
 ## Lectures
