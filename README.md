@@ -20,6 +20,8 @@ Good material about causal Inference
   * https://content.dataiku.com/causal-inference
 * Applied Causal Analysis (with R), by Paul C. Bauer
   * https://bookdown.org/paul/applied-causal-analysis/
+* Bayesuvius: a visual dictionary of Bayesian Networks and Causal Inference, by Robert R. Tucci
+  * https://qbnets.wordpress.com/2020/11/30/my-free-book-bayesuvius-on-bayesian-networks/
 
 ## Courses
 * Causal Inference Course Lectures, by Brady Neal
