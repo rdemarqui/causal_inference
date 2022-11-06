@@ -76,6 +76,8 @@ Good material about causal Inference
   * https://www.youtube.com/watch?v=CTcQlRSnvvM
 
 ## Articles / Papers
+* Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data, by Julia M. Rohrer
+  * https://journals.sagepub.com/doi/full/10.1177/2515245917745629
 * A Survey on Causal Inference, by Liuyi Yao, Zhixuan Chu, Sheng Li, Yaliang Li, Jing Gao, and Aidong Zhang
   * https://arxiv.org/pdf/2002.02770.pdf
 * Causal inference, by Jane Huang
