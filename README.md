@@ -1,5 +1,5 @@
 # Causal Inference
-Good material about causal Inference
+Good material about Causal Inference
 
 ## Books
 * Introduction to Causal Inference: from a Machine Learning Perspective, by Brady Neal
