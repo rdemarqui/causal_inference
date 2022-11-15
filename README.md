@@ -45,6 +45,7 @@ Good material about Causal Inference
   * https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your
 * Probabilistic graphical models, by Daphne Coller
   * https://www.coursera.org/specializations/probabilistic-graphical-models
+* Inferência Causal em Epidemiologia (Portuguese), by Fernando Hartwig
 
 ## Packages
 * DoWhy
