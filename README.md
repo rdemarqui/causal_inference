@@ -22,6 +22,8 @@ Good material about Causal Inference
   * https://bookdown.org/paul/applied-causal-analysis/
 * Bayesuvius: a visual dictionary of Bayesian Networks and Causal Inference, by Robert R. Tucci
   * https://qbnets.wordpress.com/2020/11/30/my-free-book-bayesuvius-on-bayesian-networks/
+* The Effect, by Nick Huntington-Klein
+  * https://www.theeffectbook.net/
 
 ## Courses
 * Econometrics for Business in R and Python, by Diogo Alves de Resende
