@@ -76,6 +76,8 @@ Good material about Causal Inference
   * https://www.youtube.com/watch?v=HOgx_SBBzn0
 * Causal discovery,  by Bernhard Scholkopf
   * https://www.youtube.com/watch?v=CTcQlRSnvvM
+* The Effect, by Nick Huntington-Klein
+  * https://www.youtube.com/watch?v=yQXqdmenc6M&list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8
 
 ## Articles / Papers
 * Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data, by Julia M. Rohrer
