@@ -65,6 +65,8 @@ Good material about Causal Inference
   * https://github.com/Minyus/causallift
 * CausalImpact
   * http://google.github.io/CausalImpact/CausalImpact.html
+* Dame-Flame
+  * https://almost-matching-exactly.github.io/DAME-FLAME-Python-Package/
 
 
 ## Lectures
