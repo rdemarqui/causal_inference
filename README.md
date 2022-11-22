@@ -90,6 +90,8 @@ Good material about Causal Inference
   * https://journals.sagepub.com/doi/full/10.1177/2515245917745629
 * A Survey on Causal Inference, by Liuyi Yao, Zhixuan Chu, Sheng Li, Yaliang Li, Jing Gao, and Aidong Zhang
   * https://arxiv.org/pdf/2002.02770.pdf
+* Review of Causal Discovery Methods Based on Graphical Models, by Clark Glymour, Kun Zhang and Peter Spirtes
+  * https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full 
 * Causal inference, by Jane Huang
   * https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a
 * Using Causal Inference to Improve the Uber User Experience
