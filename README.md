@@ -88,6 +88,10 @@ Good material about Causal Inference
   * https://www.youtube.com/watch?v=CTcQlRSnvvM
 * The Effect, by Nick Huntington-Klein
   * https://www.youtube.com/watch?v=yQXqdmenc6M&list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8
+* UCL Seminar - What is Causal AI
+  * https://www.youtube.com/watch?v=50VGblsPNQM
+* Start Asking Your Data “Why?” - A Gentle Introduction To Causal Inference | PyData Global 2021
+  * https://www.youtube.com/watch?v=w4DFQmh5OGw
 
 ## Articles / Papers
 * Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data, by Julia M. Rohrer
