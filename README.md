@@ -24,6 +24,10 @@ Good material about Causal Inference
   * https://qbnets.wordpress.com/2020/11/30/my-free-book-bayesuvius-on-bayesian-networks/
 * The Effect, by Nick Huntington-Klein
   * https://www.theeffectbook.net/
+* Causality for Machine Learning, by Cloudera
+  * https://ff13.fastforwardlabs.com/
+* Causation, Prediction, and Search, by Peter Spirtes, Clark Glymour, and Richard Scheines
+  * https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search 
 
 ## Courses
 * Econometrics for Business in R and Python, by Diogo Alves de Resende
