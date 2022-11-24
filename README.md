@@ -27,7 +27,9 @@ Good material about Causal Inference
 * Causality for Machine Learning, by Cloudera
   * https://ff13.fastforwardlabs.com/
 * Causation, Prediction, and Search, by Peter Spirtes, Clark Glymour, and Richard Scheines
-  * https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search 
+  * https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search
+* Probabilistic Programming & Bayesian Methods for Hackers (An intro to Bayesian methods and probabilistic programming)
+  * http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
 ## Courses
 * Econometrics for Business in R and Python, by Diogo Alves de Resende
