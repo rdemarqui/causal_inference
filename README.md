@@ -116,3 +116,5 @@ Good material about Causal Inference
   * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867326
 * causalscience.org
   * https://www.causalscience.org/blog/
+* Why We Should Teach Causal Inference: Examples in Linear Regression With Simulated Data, by Karsten Lübke, Matthias Gehrke, Jörg Horst & Gero Szepannek
+  * https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1752859 
