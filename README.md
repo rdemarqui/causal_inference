@@ -76,7 +76,6 @@ Good material about Causal Inference
 * Pgmpy
   * https://pgmpy.org/
 
-
 ## Lectures
 * Causal Inference in Data Science From Prediction to Causation, by Amit Sharma
   * https://www.youtube.com/watch?v=6SCoaBo1MqU
@@ -94,6 +93,8 @@ Good material about Causal Inference
   * https://www.youtube.com/watch?v=50VGblsPNQM
 * Start Asking Your Data “Why?” - A Gentle Introduction To Causal Inference | PyData Global 2021
   * https://www.youtube.com/watch?v=w4DFQmh5OGw
+* Solutions in Causal Inference
+  * https://www.youtube.com/watch?v=TFWgC5J6iDw
 
 ## Articles / Papers
 * Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data, by Julia M. Rohrer
