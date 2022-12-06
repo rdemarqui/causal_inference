@@ -75,6 +75,8 @@ Good material about Causal Inference
   * https://almost-matching-exactly.github.io/DAME-FLAME-Python-Package/
 * Pgmpy
   * https://pgmpy.org/
+* PyMC
+  * https://www.pymc.io/
 
 ## Lectures
 * Causal Inference in Data Science From Prediction to Causation, by Amit Sharma
