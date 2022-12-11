@@ -53,6 +53,8 @@ Good material about Causal Inference
   * https://www.coursera.org/specializations/probabilistic-graphical-models
 * Inferência Causal em Epidemiologia (Portuguese), by Fernando Hartwig
   * https://www.youtube.com/watch?v=U7qhODzS1Bs&list=PLQeeqx5FCkGA51xOlwxjj2bJOYsxUOyTE 
+* Regression Modeling for Public Health, by Scott Venners
+  * https://www.youtube.com/@scottvenners5824/featured
 
 ## Packages
 * DoWhy
