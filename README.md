@@ -47,7 +47,6 @@ Good material about Causal Inference
   * https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course
 * Lecture Notes for Causality in Machine Learning, by Robert Ness
   * https://bookdown.org/robertness/causalml/docs/
-
 * Causal Diagrams: Draw Your Assumptions Before Your Conclusions
   * https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your
 * Probabilistic graphical models, by Daphne Coller
