@@ -34,6 +34,8 @@ Good material about Causal Inference
 ## Courses
 * Econometrics for Business in R and Python, by Diogo Alves de Resende
   * https://www.udemy.com/course/econometrics-for-business/
+* Causal Data Science with Directed Acyclic Graphs, by Paul Hunermund
+  * https://www.udemy.com/course/causal-data-science/
 * Causal Inference Course Lectures, by Brady Neal
   * https://www.youtube.com/watch?v=CfzO4IEMVUk&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0
 * A Crash Course in Causality: Inferring Causal Effects from Observational Data, by Jason A. Roy
@@ -45,8 +47,7 @@ Good material about Causal Inference
   * https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course
 * Lecture Notes for Causality in Machine Learning, by Robert Ness
   * https://bookdown.org/robertness/causalml/docs/
-* Causal Data Science with Directed Acyclic Graphs, by Paul Hunermund
-  * https://www.udemy.com/course/causal-data-science/
+
 * Causal Diagrams: Draw Your Assumptions Before Your Conclusions
   * https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your
 * Probabilistic graphical models, by Daphne Coller
