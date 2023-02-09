@@ -30,6 +30,8 @@ Good material about Causal Inference
   * https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search
 * Probabilistic Programming & Bayesian Methods for Hackers (An intro to Bayesian methods and probabilistic programming)
   * http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+* Introduction to Modern Causal Inference, by Alejandro Schuler and Mark van der Laan
+  * https://alejandroschuler.github.io/mci/introduction-to-modern-causal-inference.html 
 
 ## Courses
 * Econometrics for Business in R and Python, by Diogo Alves de Resende
