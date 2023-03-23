@@ -125,3 +125,5 @@ Good material about Causal Inference
   * https://www.causalscience.org/blog/
 * Why We Should Teach Causal Inference: Examples in Linear Regression With Simulated Data, by Karsten Lübke, Matthias Gehrke, Jörg Horst & Gero Szepannek
   * https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1752859 
+* Single World Intervention Graphs (SWIGs): A Unification of the Counterfactual and Graphical Approaches to Causality, by Thomas S. Richardson & James M. Robins
+  * chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://csss.uw.edu/files/working-papers/2013/wp128.pdf
