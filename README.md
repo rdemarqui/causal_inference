@@ -57,6 +57,8 @@ Good material about Causal Inference
   * https://www.youtube.com/watch?v=U7qhODzS1Bs&list=PLQeeqx5FCkGA51xOlwxjj2bJOYsxUOyTE 
 * Regression Modeling for Public Health, by Scott Venners
   * https://www.youtube.com/@scottvenners5824/featured
+Evaluating Impact in Low- and Middle-Income Countries, by Alaka Holla
+  * https://www.edx.org/course/impact-evaluation-methods-with-applications-in-low-and-middle-income-countries-2
 
 ## Packages
 * DoWhy
