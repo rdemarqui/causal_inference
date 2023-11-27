@@ -59,6 +59,10 @@ Good material about Causal Inference
   * https://www.youtube.com/@scottvenners5824/featured
 * Evaluating Impact in Low- and Middle-Income Countries, by Alaka Holla
   * https://www.edx.org/course/impact-evaluation-methods-with-applications-in-low-and-middle-income-countries-2
+* Desenhos de Pesquisa para Inferência Causal, UFMG (Portuguese)
+  * https://www.youtube.com/playlist?list=PL7Xpx-hrPv-FteQ541Iia6MopWrh7seau
+* Inferência Causal, PGSC - UFMA (Portguese)
+  * https://www.youtube.com/playlist?list=PLH-dyKv9zCsQoq2grktJltWYvdl8uClim  
 
 ## Packages
 * DoWhy
