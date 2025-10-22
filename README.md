@@ -34,6 +34,10 @@ Good material about Causal Inference
   * https://alejandroschuler.github.io/mci/introduction-to-modern-causal-inference.html 
 
 ## Courses
+* Causal Inference, by Grab N Go Info
+  * https://www.youtube.com/playlist?list=PLVppujud2yJoRnQTpHIKVe058uBxKgdWU
+* Biostatistics Course for Medical Students
+  * https://www.youtube.com/playlist?list=PLE0FJMFUlIlFyTaKmzVRKfJLVW1HpTSFm
 * Econometrics for Business in R and Python, by Diogo Alves de Resende
   * https://www.udemy.com/course/econometrics-for-business/
 * Causal Data Science with Directed Acyclic Graphs, by Paul Hunermund
