@@ -34,6 +34,8 @@ Good material about Causal Inference
   * https://alejandroschuler.github.io/mci/introduction-to-modern-causal-inference.html
 * Causal Inference and Machine Learning: In Economics, Social, and Health Sciences by Mutlu Yuksel and Yigit Aydede
   * https://www.causalmlbook.com/
+ * Causal Artificial Intelligence, by Elias Bareinboim
+  * https://causalai-book.net/
 
 ## Courses
 * Causal Inference, by Grab N Go Info
